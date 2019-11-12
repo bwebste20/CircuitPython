@@ -5,8 +5,6 @@
 #### Objective
 Make a LED fade from full brightness (255) to 
 
-when you make changes, add commit push
-
 #### Lessons
 In this assignment we learned how to use the new metro express board as well as CircuitPython using Mu.
 #### Important Code
