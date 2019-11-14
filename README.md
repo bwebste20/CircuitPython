@@ -74,7 +74,8 @@ while True:
     time.sleep(1.0)
     servo.duty_cycle = servo_duty_cycle(2.4)
     time.sleep(1.0)
-    ```
+    
+```
     
 ### CircuitPython LCD:
 #### Objective 
