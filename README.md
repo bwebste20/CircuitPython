@@ -122,3 +122,4 @@ while True:
         # lcd.print(value)
 # if button is high and last_state = low
     time.sleep(0.01)
+
