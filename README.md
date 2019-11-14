@@ -76,14 +76,14 @@ while True:
     time.sleep(1.0)
     ```
     
-    ###CircuitPython LCD
-    #### Objective 
-    Use a button to have a lcd screen count the number of times you click it.
+### CircuitPython LCD
+#### Objective 
+Use a button to have a lcd screen count the number of times you click it.
     
-    ####Lessons
-    How to code a lcd screen from your serial monitor.
-    ####Important code
-    import time
+#### Lessons
+How to code a lcd screen from your serial monitor.
+#### Important code
+import time
 from lcd.lcd import LCD
 from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
 from digitalio import DigitalInOut, Direction, Pull
