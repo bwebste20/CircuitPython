@@ -123,3 +123,14 @@ while True:
 # if button is high and last_state = low
     time.sleep(0.01)
 
+```
+
+### CircuitPython LCD:
+#### Objective 
+Use a button to have a lcd screen count the number of times you click it.
+    
+#### Lessons
+How to code a lcd screen from your serial monitor.
+#### Important code
+`lcdbutton.py`
+ ``` python
