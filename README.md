@@ -125,12 +125,13 @@ while True:
 
 ```
 
-### CircuitPython LCD:
+### CircuitPython Photointerrupters:
 #### Objective 
-Use a button to have a lcd screen count the number of times you click it.
+Wire and code a photo interupter and have the serial monitor tell you how many times it was interupted.
     
 #### Lessons
-How to code a lcd screen from your serial monitor.
+How to use and code a photo interupter.
 #### Important code
-`lcdbutton.py`
+``
  ``` python
+
