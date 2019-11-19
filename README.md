@@ -157,4 +157,16 @@ while True:
         print("# of interrupts:", (value))
         max += 4 #sets the variables back to default
         value = 0
+        
+```
+
+### CircuitPython distance censor:
+#### Objective 
+Wire and code a photo interupter and have the serial monitor tell you how many times it was interupted.
+    
+#### Lessons
+How to use and code a photo interupter.
+#### Important code
+``
+ ``` python
 
